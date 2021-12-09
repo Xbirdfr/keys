@@ -5,8 +5,6 @@ Dans ce repos, vous allez pouvoir trouver en racine diverses clés publiques m'a
   - SSH : (Format OpenSSH) [SSH_Xbird_PUBLIC](https://raw.githubusercontent.com/Xbirdfr/xbird-keys/master/SSH_Xbird_PUBLIC)
   - PGP : [PGP_contact@xbird.me_PUBLIC_(4AE16792).asc](https://raw.githubusercontent.com/Xbirdfr/xbird-keys/master/PGP_contact%40xbird.me_PUBLIC_(4AE16792).asc)
 
-Dans le répertoire "Amis", j'y entrepose les clés des personnes souhaitant utliser mon systeme de raccourci pour leurs clés SSH / PGP (Ce systeme n'est pas encore disponible actuellement)
-
 # Ligne de commandes pour autoget ma clé publique SSH
 WGET XBIRD_SSH:
 ```sh
